@@ -23,7 +23,8 @@
   {% include 'open-graph-tags' %}
   {% include 'twitter-card' %}
 
-  {{ content_for_header }}
+  {{ content_for_header }} 
+ {{ 'servicify-asset.js' | asset_url | script_tag }}
 
   {{ 'style.scss.css' | asset_url | stylesheet_tag }}
 
