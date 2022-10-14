@@ -1,7 +1,7 @@
 if (!window.appointlyConfig) {
   window.appointlyConfig = {
     apiUrl: "https://api.apntly.com/appointly",
-    clientUniqueId: "A56EPTCA8R2EX654HRS8WAMT",
+    clientUniqueId: "HE6TG8MX27N7H1WS63ZI6KVA",
     booking: {
       bookingHtml: `<html>
 <head>
@@ -1554,7 +1554,7 @@ form #apntly-book-button ~ .shopify-payment-button {
     },
     floatWidgetSettings: {"text":"BOOK APPOINTMENT","isEnabled":false,"textColor":"#ffffff","onClickAction":1,"backgroundColor":"#AF4B4B"},
     bookingInfoSettings: {"dateText":"Date","timeText":"Time","teamMemberText":"Employee","bookingTimeText":"Booking"},
-    depositPaymentSettings: {"createdAtTimeStamp":"1665652480531","shouldDelete":false,"isEnabled":false,"options":[],"uniqueId":"8AFUQ896LD488JTTS5QM4JFL","depositPaymentScreenInfoSettings":{"headingText":"Payment Options (Pay Deposit amount now, and remaining after the appointment): "},"checkoutInfoText":{"titleText":"Deposit for Service","remainingAmountText":"Remaining Balance before Tax and Shipping"},"id":4728,"createdAt":"2022-10-13T09:14:40.528Z","updatedAt":"2022-10-13T09:14:40.528Z","clientId":6168},
+    depositPaymentSettings: {"createdAtTimeStamp":"1665756950417","shouldDelete":false,"isEnabled":false,"options":[],"uniqueId":"9R1MLENDZWZ9EUXWBJZKS5AP","depositPaymentScreenInfoSettings":{"headingText":"Payment Options (Pay Deposit amount now, and remaining after the appointment): "},"checkoutInfoText":{"titleText":"Deposit for Service","remainingAmountText":"Remaining Balance before Tax and Shipping"},"id":4758,"createdAt":"2022-10-14T14:15:50.419Z","updatedAt":"2022-10-14T14:15:50.419Z","clientId":6198},
     productId: '',
     bookingId: '',
     auth: '',
